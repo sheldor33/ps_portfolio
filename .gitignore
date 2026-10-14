@@ -24,6 +24,10 @@
 .DS_Store
 *.pem
 
+# local AI agent guidance (not for the public repo)
+AGENTS.md
+CLAUDE.md
+
 # debug
 npm-debug.log*
 yarn-debug.log*
